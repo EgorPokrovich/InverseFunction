@@ -1,0 +1,11 @@
+C:\Users\pokrovsky.KL\source\repos\InvertFunc\InvertFunc\bin\Debug\netcoreapp2.2\InvertFunc.deps.json
+C:\Users\pokrovsky.KL\source\repos\InvertFunc\InvertFunc\bin\Debug\netcoreapp2.2\InvertFunc.runtimeconfig.json
+C:\Users\pokrovsky.KL\source\repos\InvertFunc\InvertFunc\bin\Debug\netcoreapp2.2\InvertFunc.runtimeconfig.dev.json
+C:\Users\pokrovsky.KL\source\repos\InvertFunc\InvertFunc\bin\Debug\netcoreapp2.2\InvertFunc.dll
+C:\Users\pokrovsky.KL\source\repos\InvertFunc\InvertFunc\bin\Debug\netcoreapp2.2\InvertFunc.pdb
+C:\Users\pokrovsky.KL\source\repos\InvertFunc\InvertFunc\obj\Debug\netcoreapp2.2\InvertFunc.csprojAssemblyReference.cache
+C:\Users\pokrovsky.KL\source\repos\InvertFunc\InvertFunc\obj\Debug\netcoreapp2.2\InvertFunc.csproj.CoreCompileInputs.cache
+C:\Users\pokrovsky.KL\source\repos\InvertFunc\InvertFunc\obj\Debug\netcoreapp2.2\InvertFunc.AssemblyInfoInputs.cache
+C:\Users\pokrovsky.KL\source\repos\InvertFunc\InvertFunc\obj\Debug\netcoreapp2.2\InvertFunc.AssemblyInfo.cs
+C:\Users\pokrovsky.KL\source\repos\InvertFunc\InvertFunc\obj\Debug\netcoreapp2.2\InvertFunc.dll
+C:\Users\pokrovsky.KL\source\repos\InvertFunc\InvertFunc\obj\Debug\netcoreapp2.2\InvertFunc.pdb
